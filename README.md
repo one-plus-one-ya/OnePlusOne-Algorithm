@@ -15,6 +15,9 @@
 | 滑动窗口 | [滑动窗口本质](https://www.bilibili.com/video/BV1GAV7zHEWD/?share_source=copy_web&vd_source=36ebe39d370ab0b5c7c69213c826942d) |
 | kmp算法  | [KMP原来这么简单！](https://www.bilibili.com/video/BV16F7DzTE9L/?share_source=copy_web&vd_source=36ebe39d370ab0b5c7c69213c826942d) |
 | 单调队列 | [单调队列](https://www.bilibili.com/video/BV1Kjg9zBEqE/?share_source=copy_web&vd_source=36ebe39d370ab0b5c7c69213c826942d) |
+| 单调栈   | [单调栈](https://www.bilibili.com/video/BV1MDgbzMEei/?vd_source=0a2f4e13097b473876b536515c9edd9b) |
+
+
 
 
 
