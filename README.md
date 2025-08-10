@@ -41,4 +41,5 @@
 |          | [76、最小覆盖子串](https://leetcode.cn/problems/minimum-window-substring/) | [滑动窗口本质](https://www.bilibili.com/video/BV1GAV7zHEWD/?share_source=copy_web&vd_source=36ebe39d370ab0b5c7c69213c826942d) |
 | 子串     | [560、和为k的子数组](https://leetcode.cn/problems/subarray-sum-equals-k/) | [和为K的子数组]( https://www.bilibili.com/video/BV1poTQzDEx4/?share_source=copy_web&vd_source=36ebe39d370ab0b5c7c69213c826942d) |
 |          | [239、滑动窗口最大值](https://leetcode.cn/problems/sliding-window-maximum/) | [单调队列](https://www.bilibili.com/video/BV1Kjg9zBEqE/?share_source=copy_web&vd_source=36ebe39d370ab0b5c7c69213c826942d) |
+| 普通数组 | [53、最大子数组和](https://leetcode.cn/problems/maximum-subarray/description/) | [最大子数组和](https://www.bilibili.com/video/BV1f3bPzaEJ2/?share_source=copy_web&vd_source=36ebe39d370ab0b5c7c69213c826942d) |
 
