@@ -48,4 +48,5 @@
 | ^_^      |                                                              |                                                              |
 | 普通数组 | [53、最大子数组和](https://leetcode.cn/problems/maximum-subarray/description/) | [最大子数组和](https://www.bilibili.com/video/BV1f3bPzaEJ2/?share_source=copy_web&vd_source=36ebe39d370ab0b5c7c69213c826942d) |
 |          | [56、合并区间](https://leetcode.cn/problems/merge-intervals/description/) | [合并区间](https://www.bilibili.com/video/BV1stkDBsEzZ/?share_source=copy_web&vd_source=36ebe39d370ab0b5c7c69213c826942d) |
+|          | [189、轮转数组](https://leetcode.cn/problems/rotate-array/description/) | [轮转数组](https://www.bilibili.com/video/BV1d7SwBpEMn/?share_source=copy_web&vd_source=36ebe39d370ab0b5c7c69213c826942d) |
 
